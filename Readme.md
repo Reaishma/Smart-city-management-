@@ -171,10 +171,10 @@ All metrics and chart data are currently simulated. To connect real data:
 - **Email**: vra.9618@gmail.com
 - **GitHub**: [@Reaishma](https://github.com/Reaishma)
 
+## 📄 License
 
-## 📝 Licence 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Reaishma/Smart-city-management-/blob/main/LICENSE ) file for details.
 
-This project is licensed under MIT licence for licence guidelines refer [licence Page] (https://github.com/Reaishma/Smart-city-management-/blob/main/LICENSE)
 
 
 **Built with ❤️ for portfolio demonstration**
