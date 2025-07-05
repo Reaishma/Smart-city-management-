@@ -164,8 +164,12 @@ All metrics and chart data are currently simulated. To connect real data:
 ## 🚀 For Live Demo
 [view Demo] (https://reaishma.github.io/Smart-city-management-/)
 
-##Author🧑‍💻
+## 👨‍💻 Developer
+
 **Reaishma N**
+- **Email**: vra.9618@gmail.com
+- **GitHub**: [@Reaishma](https://github.com/Reaishma)
+
 
 ## 📝 Licence 
 
