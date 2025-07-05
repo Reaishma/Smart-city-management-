@@ -189,4 +189,4 @@ We welcome contributions!
 6. Submit a pull request
 
 
-##**Built with ❤️ for portfolio demonstration**
+## Built with ❤️ for portfolio demonstration
