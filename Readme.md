@@ -96,7 +96,7 @@ This is a full-stack smart city management platform built with React, Express.js
 - **express**: Web application framework
 - **passport**: Authentication middleware
 
-### ✅ UI Dependencies
+## ✅ UI Dependencies
 - **@radix-ui/***: Accessible UI component primitives
 - **tailwindcss**: Utility-first CSS framework
 - **lucide-react**: Icon library
@@ -189,4 +189,4 @@ We welcome contributions!
 6. Submit a pull request
 
 
-**Built with ❤️ for portfolio demonstration**
+##**Built with ❤️ for portfolio demonstration**
