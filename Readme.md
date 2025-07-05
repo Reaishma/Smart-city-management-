@@ -169,6 +169,7 @@ All metrics and chart data are currently simulated. To connect real data:
 
 ## 📝 Licence 
 
-This project is licensed under MIT licence for licence guidelines refer [licence Page] (
+This project is licensed under MIT licence for licence guidelines refer [licence Page] (https://github.com/Reaishma/Smart-city-management-/blob/main/LICENSE)
+
 
 **Built with ❤️ for portfolio demonstration**
