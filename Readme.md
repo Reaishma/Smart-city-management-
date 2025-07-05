@@ -160,9 +160,10 @@ All metrics and chart data are currently simulated. To connect real data:
    - Clear browser cache
    - Test in incognito/private mode
 
+## 🎯 Live Demo
 
-## 🚀 For Live Demo
-[View Demo] ( https://reaishma.github.io/Smart-city-management-/)
+**Smart city management**: [View Live Demo]( https://reaishma.github.io/Smart-city-management-/ )
+
 
 ## 👨‍💻 Developer
 
