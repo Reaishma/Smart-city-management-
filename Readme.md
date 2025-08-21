@@ -1,5 +1,10 @@
 # Smart City Management Platform
 
+# 🎯 Live Demo
+
+**Smart city management**: View Live Demo https://reaishma.github.io/Smart-city-management-/
+
+
 ## ✅ Overview
 
 This is a full-stack smart city management platform built with React, Express.js, and PostgreSQL. The system provides comprehensive monitoring and management capabilities for urban infrastructure including traffic flow, energy grids, environmental conditions, and population analytics. It features real-time data visualization, predictive analytics, and an integrated alert system for proactive city management.
@@ -160,9 +165,6 @@ All metrics and chart data are currently simulated. To connect real data:
    - Clear browser cache
    - Test in incognito/private mode
 
-## 🎯 Live Demo
-
-**Smart city management**: [View Live Demo]( https://reaishma.github.io/Smart-city-management-/ )
 
 
 ## 👨‍💻 Developer
