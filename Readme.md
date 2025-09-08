@@ -43,6 +43,9 @@ This is a full-stack smart city management platform built with React, Express.js
 - **Traffic Management**: Monitor traffic flow, congestion levels, and average speeds
 - **Energy Grid**: Track energy consumption, renewable percentage, and grid efficiency
 - **Environmental Monitoring**: Air quality, temperature, humidity, and noise levels
+
+![Environmental](https://github.com/Reaishma/Smart-city-management-/blob/main/chrome_screenshot_Sep%207%2C%202025%204_50_21%20PM%20GMT%2B05_30.png)
+
 - **Population Analytics**: Demographics and growth trends
 - **Predictive Analytics**: AI-powered forecasting with performance metrics
 - **Admin Panel**: System management and monitoring tools
