@@ -54,6 +54,8 @@ This is a full-stack smart city management platform built with React, Express.js
 
 ## 🎯 Features Overview
 
+![Traffic](https://github.com/Reaishma/Smart-city-management-/blob/main/chrome_screenshot_Sep%207%2C%202025%204_51_02%20PM%20GMT%2B05_30.png)
+
 ### Interactive Dashboard
 - Real-time metric updates every 30 seconds
 - Hover effects on metric cards
