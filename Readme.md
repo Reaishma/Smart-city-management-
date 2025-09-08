@@ -70,6 +70,9 @@ This is a full-stack smart city management platform built with React, Express.js
 - Mobile-friendly responsive layout
 
 ## ✅ Analytics & Intelligence
+
+![predictive analysis](https://github.com/Reaishma/Smart-city-management-/blob/main/chrome_screenshot_Sep%207%2C%202025%204_49_52%20PM%20GMT%2B05_30.png)
+
 1. **Predictive Analytics**: AI-powered forecasting using linear regression and moving averages
 2. **Anomaly Detection**: Statistical analysis for identifying unusual patterns
 3. **Data Simulation**: Automated generation of realistic city data for testing and demos
