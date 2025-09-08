@@ -2,7 +2,7 @@
 
 # 🎯 Live Demo
 
-**Smart city management**: View Live Demo https://reaishma.github.io/Smart-city-management-/
+**Smart city management**: **View Live on** https://reaishma.github.io/Smart-city-management-/
 
 
 ![Overview](https://github.com/Reaishma/Smart-city-management-/blob/main/chrome_screenshot_Sep%207%2C%202025%204_49_02%20PM%20GMT%2B05_30.png)
